@@ -77,11 +77,19 @@ h3 {
 }
 
 .my-buttons {
-	margin-left: 25px;
-	margin-right: 25px;
+	padding: 15px;
+	background-color: yellow;
+	border-radius: 8px;
 }
 
-.color-button {
+.fav-buttons {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+
+
+/* .color-button {
 	padding: 15px;
 	background-color: yellow;
 	border-radius: 8px;
@@ -95,4 +103,4 @@ h3 {
 	padding: 15px;
 	background-color: yellow;
 	border-radius: 8px;
-}
+} */
