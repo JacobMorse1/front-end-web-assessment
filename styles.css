@@ -36,3 +36,63 @@ input {
 img {
 	max-width: 300px;
 }
+
+.profile-body {
+	display: flexbox;
+	position: absolute;
+	top: 5px;
+	left: 50px;
+	background-color: slategray;
+	}
+
+.profile-div {
+	background-color: rgb(67, 124, 67);
+	border: solid 3px black;
+	margin-top: 25px;
+}
+
+#name-header {
+	color: black;
+	background-color:rgb(219, 63, 46);
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+#profile-pic {
+	border: solid 1px black;
+	margin-left: 10px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+#about-me-header {
+	margin-left: 185px;
+	margin-right: 185px
+}
+
+h3 {
+	margin-left: 35px;
+}
+
+.career-goals-list {
+	margin-left: 40px;
+}
+
+.my-buttons {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.color-button {
+	padding: 15px;
+	background-color: yellow;
+	border-radius: 8px;
+}
+.place-button {
+	padding: 15px;
+	background-color: yellow;
+	border-radius: 8px;
+}
+.ritual-button {
+	padding: 15px;
+	background-color: yellow;
+	border-radius: 8px;
+}
